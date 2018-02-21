@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hadoop:hadoop-mapreduce-client-shuffle:2.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-mapreduce-client-shuffle/2.4.1/36ec630ddc0748efaeefaa146a8a210ff6693225/hadoop-mapreduce-client-shuffle-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-mapreduce-client-shuffle/2.4.1/f7495b118c051cd6c12a63fba7853d9a2a8c0b41/hadoop-mapreduce-client-shuffle-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

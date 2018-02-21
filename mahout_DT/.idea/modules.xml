@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mahout_DT.iml" filepath="$PROJECT_DIR$/.idea/modules/mahout_DT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mahout_DT_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mahout_DT_main.iml" group="mahout_DT" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mahout_DT_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mahout_DT_test.iml" group="mahout_DT" />
+    </modules>
+  </component>
+</project>
